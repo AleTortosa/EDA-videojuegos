@@ -1,4 +1,4 @@
-## Plantilla de README
+## EDA videojuegos
 
 ### 1) Objetivo
 - Analizar y visualizar el dataset de ventas de videojuegos para entender patrones de distribución, géneros predominantes, plataformas principales y evolución temporal de ventas.
